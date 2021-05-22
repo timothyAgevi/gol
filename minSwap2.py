@@ -35,3 +35,6 @@ def __init__(self):
 # 7. else do nothing
 # 8, return count
 #     githublink  https://github.com/timothyAgevi/gol/blob/master/minSwap2.py
+
+# Question 
+# 

@@ -21,5 +21,9 @@
 # 5. also change values for array
 # 6. return array
 #  https://github.com/timothyAgevi/gol/blob/master/reverseArray
-# github links
+
+
+# question
+# Write a function reverseArray(A) that takes in an array A and reverses it,
+#  without using another array or collection data structure; in-place
 
