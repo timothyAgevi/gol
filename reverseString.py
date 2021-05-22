@@ -13,3 +13,5 @@
         f += 1
         l -= 1
     return A
+
+    # https://github.com/timothyAgevi/gol/blob/master/reverseString.py
