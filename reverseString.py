@@ -15,3 +15,6 @@
     return A
 
     # https://github.com/timothyAgevi/gol/blob/master/reverseString.py
+    # question
+    # Write a function reverseArray(A) that takes in an array A and reverses it, 
+    # without using another array or collection data structure; in-place.
