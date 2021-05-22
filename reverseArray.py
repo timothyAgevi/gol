@@ -20,3 +20,6 @@
 # 4. each time you loop, increase x by 1 and reduce y by 1
 # 5. also change values for array
 # 6. return array
+#  https://github.com/timothyAgevi/gol/blob/master/reverseArray
+# github links
+
